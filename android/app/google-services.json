@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663404313301",
+    "firebase_url": "https://atividaderebuut.firebaseio.com",
+    "project_id": "atividaderebuut",
+    "storage_bucket": "atividaderebuut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663404313301:android:b0560d973c4c4f883b405c",
+        "android_client_info": {
+          "package_name": "com.example.atividade_rebuut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663404313301-cgm1uv7495tqgtqkmcsuob8fr3t9qfkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUoAU_e0Fu0ka9oB_rNUTy2jdE8CfB228"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663404313301-cgm1uv7495tqgtqkmcsuob8fr3t9qfkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
