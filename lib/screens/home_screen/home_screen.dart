@@ -1,10 +1,6 @@
 import 'package:atividade_rebuut/common/custom_drawer.dart';
-import 'package:atividade_rebuut/models/page_manager.dart';
-import 'package:atividade_rebuut/screens/categories/components/category_tile.dart';
 import 'package:atividade_rebuut/screens/home_screen/components/custom_home_card.dart';
-import 'package:atividade_rebuut/screens/products/components/product_tile.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 class HomeScreen extends StatelessWidget {
   @override

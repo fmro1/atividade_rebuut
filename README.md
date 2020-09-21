@@ -1,6 +1,6 @@
 # atividade_rebuut
 
-A new Flutter application.
+Nova aplicação em Flutter. Aplicação com dois CRUDs, um para produto e um para categoria com conexão ao Firebase.
 
 ## Getting Started
 

@@ -18,7 +18,7 @@ class ProductListTile extends StatelessWidget {
           borderRadius: BorderRadius.circular(4)
         ),
         child: Container(
-          height: 90,
+          height: 92,
           padding: const EdgeInsets.all(8),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
