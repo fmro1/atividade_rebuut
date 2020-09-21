@@ -2,6 +2,8 @@
 
 Nova aplicação em Flutter. Aplicação com dois CRUDs, um para produto e um para categoria com conexão ao Firebase.
 
+![image](https://user-images.githubusercontent.com/31592577/93765354-1d8eb700-fbeb-11ea-8836-e1083823c7b8.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
